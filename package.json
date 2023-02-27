@@ -1,0 +1,20 @@
+{
+  "name": "farmkonek-pocketbase",
+  "version": "1.0.0",
+  "description": "Backend &amp; blog-editor server for Blog page of Farmkonek",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd pocketbase & pocketbase.exe serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenFrozt/farmkonek-pocketbase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenFrozt/farmkonek-pocketbase/issues"
+  },
+  "homepage": "https://github.com/stevenFrozt/farmkonek-pocketbase#readme"
+}
